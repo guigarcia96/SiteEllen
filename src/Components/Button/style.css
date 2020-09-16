@@ -1,0 +1,16 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  line-height: 45px;
+  text-decoration: none;
+  text-align: center;
+  border: 1px solid brown;
+  color: brown;
+  transition: all 500ms ease;
+}
+.btn:hover {
+  color: black;
+  background-color: brown;
+}

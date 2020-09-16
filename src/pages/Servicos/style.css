@@ -1,0 +1,27 @@
+.wrapper-servicos {
+  background-color: rgb(25, 25, 25);
+  color: brown;
+}
+.conteudo-servicos {
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+}
+.conteudo-servicos h1 {
+  font-weight: normal;
+  font-size: 2.5rem;
+  margin-top: 3.3rem;
+}
+.conteudo-servicos p {
+  color: white;
+  margin: 4rem 0;
+  font-size: 1.2rem;
+}
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+}

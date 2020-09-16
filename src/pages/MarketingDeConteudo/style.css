@@ -1,0 +1,41 @@
+.wrapper-marketing-influencia {
+  background-color: rgb(25, 25, 25);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper-content-conteudo {
+  max-width: 1200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+}
+.wrapper-content-conteudo img {
+  width: 460px;
+  height: 560px;
+  margin: 6rem;
+}
+
+.text-marketing-conteudo {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+}
+.text-marketing-conteudo h1 {
+  font-weight: normal;
+  color: brown;
+  
+  
+}
+.text-marketing-conteudo span {
+  font-size: 1rem;
+  padding: 1.4rem 0;
+  
+}
+.text-marketing-conteudo p {
+  
+  margin-bottom: 3rem;
+}

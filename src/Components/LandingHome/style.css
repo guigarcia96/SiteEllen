@@ -1,0 +1,39 @@
+.wrapper {
+  background-color: rgb(25, 25, 25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.wrapper section {
+  margin-left: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  padding: 5rem 0;
+  
+}
+.wrapper section img {
+  width: 551px;
+  height: 961px;
+}
+.wrapper section div {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.wrapper section h1 {
+  font-size: 5rem;
+  text-align: center;
+  margin-top: 7.5rem;
+}
+.wrapper section span {
+  padding: 2rem;
+}
+.wrapper section p {
+  padding: 2rem;
+  text-align: center;
+}
+
+
