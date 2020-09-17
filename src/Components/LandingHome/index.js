@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css';
 import Ellen from '../../assets/imgs/ellen.jpg'
-import Button from '../../Components/Button'
+import Button from '../../components/Button'
 
 function LandingHome() {
   return (

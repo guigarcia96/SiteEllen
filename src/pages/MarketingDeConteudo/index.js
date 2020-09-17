@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
-import PageDefault from '../../Components/PageDefault';
-import Button from '../../Components/Button'
+import PageDefault from '../../components/PageDefault';
+import Button from '../../components/Button'
 import Venus from '../../assets/imgs/venus.png'
 
 function MarketingDeConteudo() {
