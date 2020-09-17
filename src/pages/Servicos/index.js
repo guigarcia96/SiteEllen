@@ -1,10 +1,10 @@
 import React from 'react';
 import './style.css'
-import Card from '../../components/Card'
+import Card from '../../Components/Card'
 import Livro from '../../assets/imgs/livro.jpeg'
 import PilesOfBooks from '../../assets/imgs/piles-of-books.jpeg'
 import ManWithBook from '../../assets/imgs/man-with-book.jpg'
-import PageDefault from '../../components/PageDefault'
+import PageDefault from '../../Components/PageDefault'
 
 function Servicos() {
   return (

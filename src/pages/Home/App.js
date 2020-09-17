@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import PageDefault from '../../components/PageDefault';
-import LandingHome from '../../components/LandingHome';
-import LetsTalk from '../../components/LetsTalk';
+import PageDefault from '../../Components/PageDefault';
+import LandingHome from '../../Components/LandingHome';
+import LetsTalk from '../../Components/LetsTalk';
 
 function App() {
   return (
